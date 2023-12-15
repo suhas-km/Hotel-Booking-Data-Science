@@ -43,7 +43,4 @@ To run this project locally:
 1. **Clone the Repo:** `git clone https://github.com/suhas-km/Hotel-Booking-Data-Science.git`
 
 ## Contributing 🤝
-Contributions are welcome! Please read the [contributing guide](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests.
-
-## License 📜
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE.md) file for details.
+Contributions are welcome! Please do consider clonning and contributing. Do reach out to me for details, and the process for submitting pull requests.
