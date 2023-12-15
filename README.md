@@ -1,7 +1,7 @@
 # Hotel Booking ADR Prediction 🏨💰
 
 ## Project Overview 📈
-**This project aims to predict the Average Daily Rate (ADR) for hotel bookings using machine learning**. We leverage historical booking data to identify key factors influencing pricing strategies and implement predictive models to forecast ADR, optimizing revenue management.
+**This project aims to predict the Average Daily Rate (ADR) for hotel bookings using machine learning**. We leverage historical booking data from a [2019 paper](https://pdf.sciencedirectassets.com/311593/1-s2.0-S2352340918X00079/1-s2.0-S2352340918315191/main.pdf?X-Amz-Security-Token=[...long url here...]) to identify key factors influencing pricing strategies and implement predictive models to forecast ADR, optimizing revenue management.
 
 ## Features and Models 🛠️
 We've developed models based on features like room type, customer demographics, and booking details. Our models include:
