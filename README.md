@@ -15,25 +15,25 @@ We've developed models based on features like room type, customer demographics, 
 The models are evaluated based on **Mean Squared Error (MSE)** and **R-squared** metrics.
 
 ### Model Comparisons 📊
-*Figure 1: Performance comparison of various models.*
+*Performance comparison of various models.*
 
 ## Hyperparameter Tuning 🔧
 Extensive grid search and cross-validation techniques were employed to fine-tune the models, particularly **XGBoost**, which demonstrated superior performance.
 
 ### Hyperparameter Tuning 📈
-*Figure 2: Hyperparameter tuning results.*
+*Hyperparameter tuning results.*
 
 ## Correlation Analysis 🔍
 A correlation matrix was constructed to discern the relationships between different features and ADR, guiding the feature selection process.
 
 ### Correlation Matrix 📉
-*Figure 3: Heatmap showing feature correlations with ADR.*
+*Heatmap showing feature correlations with ADR.*
 
 ## Seasonal Trends 📅
 Seasonal trends in ADR were analyzed to understand the impact of time-related factors on hotel pricing.
 
 ### Seasonal Trends 🌞❄️
-*Figure 4: Seasonal ADR trends by month and year.*
+*Seasonal ADR trends by month and year.*
 
 ## Getting Started 🚀
 To run this project locally:
