@@ -1,7 +1,7 @@
 # Hotel Booking ADR Prediction 🏨💰
 
 Project Overview 📈
-This project aims to predict the Average Daily Rate (ADR) for hotel bookings using machine learning. We leverage publicly available historical booking data from a 2019 paper Portugal Hospitality Data)
+This project aims to predict the Average Daily Rate (ADR) for hotel bookings using machine learning. We leverage publicly available historical booking data from a 2019 paper related to Portugal Hospitality Data.
 
 
 Kaggle: https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand
